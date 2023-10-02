@@ -1,3 +1,8 @@
+# Hello 👋
+
+Protocols & Standards I'm familiar with: HTTP(S), WebSockets, JSON Web Tokens, Markdown
+
+## Socials:
 Discord: <a href="https://discord.com/users/696595061944746144">krowe moh#7308</a><br>
 Discord Server: <a href="https://discord.gg/dub">The Dub's cavern</a><br>
 Twitter: <a href="https://twitter.com/Krowe_moh">@Krowe_moh</a><br>
